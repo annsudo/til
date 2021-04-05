@@ -1,3 +1,10 @@
+# Inspo for smark actions
+[awesome actions](https://github.com/sdras/awesome-actions)
+
+Look into projects: 
+1) https://github.com/pascalgn/automerge-action
+2) 
+
 # "If" in steps
 steps:
  - name: My first step
