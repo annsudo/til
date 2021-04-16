@@ -20,6 +20,8 @@
 ## Commands
 `echo "Run in Terminal"`{{execute}} --> runs command
 
+\``katacoda-scenario-examples/create-scenario-101/step1.md `\`{{open}} --> opens
+
 `ls test-scenario*` --> checks scenario created
 
 `[on Markdown extensions](https://kataco)`--> links as on github
@@ -27,6 +29,9 @@
 `*test-username* ` --> cursive
 
 `**Friendly URL:** ` ---> bold
+
+More on [Markdown](https://katacoda.com/scenario-examples/scenarios/markdown-extensions) extentions
+
 
 ## Links
 [Layouts](https://katacoda.com/scenario-examples/courses/uilayouts)
