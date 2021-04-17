@@ -14,6 +14,13 @@
 ## VS code extention
 [to Marketplace](https://marketplace.visualstudio.com/items?itemName=Katacoda.vscode)
 
+## environment
+java: "openjdk:15" 
+
+ "environment": {
+    "uilayout": "editor-terminal"
+  },
+
 ## Webhooks
 [Guide](https://www.katacoda.community/author-profile.html#github) Usually instaled automatically while creating katacoda-account
 
